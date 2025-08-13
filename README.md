@@ -17,6 +17,7 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 
 BI: Analytics & Reporting (Data Analysis)
+
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -27,9 +28,11 @@ Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 🛡️ License
+
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
+
 Hi there! I'm Harshit Sharma. I’m an IT professional and working as an analyst and learning and making new projects of Data Engineering.
 
 
