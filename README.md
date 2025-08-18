@@ -55,6 +55,11 @@ Product Performance
 Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Planning and Execution 
+
+https://www.notion.so/Data-Warehouse-Project-24c95c55671b80e38db7cf0f0b84378f?source=copy_link
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
